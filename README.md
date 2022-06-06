@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HoangLong
-- 🇻🇳 I come from Vietnam
+- 🏳️ I come from Vietnam
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
