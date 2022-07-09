@@ -1,8 +1,7 @@
 - 👋 Hi, I’m HoangLong
 - 🏳️ I come from Vietnam
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ MTK Lover
 - 📫 How to reach me ...
 
 <!---
